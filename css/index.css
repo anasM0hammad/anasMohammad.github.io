@@ -1,0 +1,111 @@
+body{
+    min-height: 100%;
+}
+
+.theme{
+    color: #4D57DE;
+}
+
+.main{
+   font-family: 'Righteous';
+   height: 95vh;
+}
+
+.navbar{
+    color: black ;
+    padding-left: 10% ;
+    padding-right: 10% ;
+}
+
+.navbar-brand{
+   font-family: 'Lobster', cursive;
+}
+
+.intro{
+    padding-top: 130px;
+    height: 96vh;
+}
+
+.line{
+    display: inline-block ;
+    height: 1px ;
+    width: 50%;
+    background-color: black ;
+}
+
+.profile{
+    margin-bottom: 25px;
+}
+
+.myImage{
+    height: 250px ;
+    width: 250px ;
+    border-radius: 50% ;
+}
+
+.resumeLink:hover{
+    color: white;
+}
+
+.projects{
+    /* height: 95vh ; */
+}
+
+.projects img{
+    height: 100px ;
+    width: 100px ;
+    margin : 0 ;
+}
+
+.projects .card{
+    color: #4D57DE ;
+    /* font-family: 'Lobster', cursive; */
+}
+
+.projects a{
+    text-decoration: none;
+    color: black;
+}
+
+.plant img{
+    height: 200px;
+    width: 150px;
+}
+
+.work{
+    height: 90vh ;
+}
+
+i{
+    margin-right: 5px;
+}
+
+.mailLink {
+   color:white ;
+}
+
+.mailLink:hover{
+    color:white;
+}
+
+.footer{
+    background-color: #4D57DE;
+    color: white;
+    min-height : 30vh;
+}
+
+.social{
+    display: flex;
+    align-items: center;
+}
+
+.footer i{
+   margin-top:30px;
+}
+.footer a{
+   color : lightgoldenrodyellow ;
+   margin: 0 15px 0 15px;
+}
+.footer a:hover{
+   color  : white ;
+}
