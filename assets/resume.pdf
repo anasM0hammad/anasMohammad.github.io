@@ -1,0 +1,634 @@
+%PDF-1.3
+%ºß¬à
+3 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Contents 4 0 R
+>>
+endobj
+4 0 obj
+<<
+/Length 7429
+>>
+stream
+0.5670000000000001 w
+0 G
+BT
+/F10 18 Tf
+20.6999999999999993 TL
+0 g
+229.1499999999999773 813.5435433070865656 Td
+(Mohammad Anas) Tj
+ET
+BT
+/F9 10 Tf
+11.5 TL
+0 g
+80.7899999999999352 793.7010236220472734 Td
+(anas.1633.m@gmail.com | +919891950609 | linkedin.com/in/anasm0hammad | github.com/anasM0hammad) Tj
+ET
+BT
+/F10 12 Tf
+13.7999999999999989 TL
+0 g
+28.3464566929133888 773.8585039370078675 Td
+(EDUCATION) Tj
+ET
+1.4173228346456694 w
+28.3464566929133888 771.0238582677164914 m
+566.933543307086552 771.0238582677164914 l
+S
+BT
+/F10 11 Tf
+12.6499999999999986 TL
+0 g
+28.3464566929133888 756.8506299212598378 Td
+(Jamia Millia Islamia) Tj
+ET
+BT
+/F10 11 Tf
+12.6499999999999986 TL
+0 g
+488.0635433070866043 756.8506299212598378 Td
+(New Delhi, India) Tj
+ET
+BT
+/F11 11 Tf
+12.6499999999999986 TL
+0 g
+28.3464566929133888 745.5120472440944468 Td
+(Bachelor's of Technology, Computer Engg) Tj
+ET
+BT
+/F9 11 Tf
+12.6499999999999986 TL
+0 g
+468.2635433070865361 745.5120472440944468 Td
+(July. 2016 - Aug 2020) Tj
+ET
+BT
+/F10 12 Tf
+13.7999999999999989 TL
+0 g
+28.3464566929133888 717.1655905511811397 Td
+(EXPERIENCE) Tj
+ET
+1.4173228346456694 w
+28.3464566929133888 714.3309448818897636 m
+566.933543307086552 714.3309448818897636 l
+S
+BT
+/F10 11 Tf
+12.6499999999999986 TL
+0 g
+28.3464566929133888 700.15771653543311 Td
+(Software Development Engineer 2) Tj
+ET
+BT
+/F10 11 Tf
+12.6499999999999986 TL
+0 g
+476.5135433070865361 700.15771653543311 Td
+(May 2021 - Present) Tj
+ET
+BT
+/F11 11 Tf
+12.6499999999999986 TL
+0 g
+28.3464566929133888 688.819133858267719 Td
+(Adobe) Tj
+ET
+BT
+/F9 11 Tf
+12.6499999999999986 TL
+0 g
+512.0435433070865656 688.819133858267719 Td
+(Noida, India) Tj
+ET
+BT
+/F9 10 Tf
+11.5 TL
+0 g
+42.5196850393700814 677.480551181102328 Td
+(• Developed & maintain Adobe's DCX Javascript SDK which powered multiple Adobe's product) Tj
+ET
+BT
+/F9 10 Tf
+11.5 TL
+0 g
+42.5196850393700814 664.6459055118109518 Td
+(• Reduce response payload size from service by 60% for DCX clients ) Tj
+ET
+BT
+/F9 10 Tf
+11.5 TL
+0 g
+42.5196850393700814 651.8112598425196893 Td
+(• Enabled PUPA Metadata on Adobe's search service for customised user insight) Tj
+ET
+BT
+/F9 10 Tf
+11.5 TL
+0 g
+42.5196850393700814 638.9766141732283131 Td
+(• Reduced the event load by 40% on search microservices & topologies) Tj
+ET
+BT
+/F9 10 Tf
+11.5 TL
+0 g
+42.5196850393700814 626.1419685039370506 Td
+(• Worked on Adobe's sync engine \(coresync\) which sync data on remote & local machine of end user) Tj
+ET
+BT
+/F9 10 Tf
+11.5 TL
+0 g
+42.5196850393700814 613.3073228346456744 Td
+(• Enabled ID based sync for cc libraries process on coresync) Tj
+ET
+BT
+/F9 10 Tf
+11.5 TL
+0 g
+42.5196850393700814 600.4726771653542983 Td
+(• Developed and design Log analyzer tool desktop app to increase dev productivity) Tj
+ET
+BT
+/F9 10 Tf
+11.5 TL
+0 g
+42.5196850393700814 587.6380314960630358 Td
+(• Tech Stack used: JS/TS, C++, Java, React, ElectronJS) Tj
+ET
+BT
+/F10 11 Tf
+12.6499999999999986 TL
+0 g
+28.3464566929133888 569.1340944881890209 Td
+(Software Engineer) Tj
+ET
+BT
+/F10 11 Tf
+12.6499999999999986 TL
+0 g
+466.613543307086502 569.1340944881890209 Td
+(Feb. 2021 - May 2021) Tj
+ET
+BT
+/F11 11 Tf
+12.6499999999999986 TL
+0 g
+28.3464566929133888 557.7955118110237436 Td
+(Samsung Research Institute) Tj
+ET
+BT
+/F9 11 Tf
+12.6499999999999986 TL
+0 g
+512.0435433070865656 557.7955118110237436 Td
+(Noida, India) Tj
+ET
+BT
+/F9 10 Tf
+11.5 TL
+0 g
+42.5196850393700814 546.4569291338583525 Td
+(• Worked with memory management team on system layer of Android OS) Tj
+ET
+BT
+/F9 10 Tf
+11.5 TL
+0 g
+42.5196850393700814 533.6222834645669764 Td
+(• Tech Stack used: C++) Tj
+ET
+BT
+/F10 11 Tf
+12.6499999999999986 TL
+0 g
+28.3464566929133888 515.1183464566929615 Td
+(Software Development Engineer) Tj
+ET
+BT
+/F10 11 Tf
+12.6499999999999986 TL
+0 g
+468.2635433070865361 515.1183464566929615 Td
+(June 2020 - Feb 2021) Tj
+ET
+BT
+/F11 11 Tf
+12.6499999999999986 TL
+0 g
+28.3464566929133888 503.7797637795276273 Td
+(Emvoke Technologies) Tj
+ET
+BT
+/F9 11 Tf
+12.6499999999999986 TL
+0 g
+493.7835433070865747 503.7797637795276273 Td
+(Gurugram, India) Tj
+ET
+BT
+/F9 10 Tf
+11.5 TL
+0 g
+42.5196850393700814 492.4411811023622931 Td
+(• Worked as full stack developer for health care SaaS clinic management software) Tj
+ET
+BT
+/F9 10 Tf
+11.5 TL
+0 g
+42.5196850393700814 479.6065354330709738 Td
+(• Designed & developed many frontend critical component like appointment booking) Tj
+ET
+BT
+/F9 10 Tf
+11.5 TL
+0 g
+42.5196850393700814 466.7718897637795976 Td
+(• Developed a microservice on NodeJs to fetch standard medical terminology data) Tj
+ET
+BT
+/F9 10 Tf
+11.5 TL
+0 g
+42.5196850393700814 453.9372440944882783 Td
+(• Contributed to design and product discussion with the core team of the startup) Tj
+ET
+BT
+/F9 10 Tf
+11.5 TL
+0 g
+42.5196850393700814 441.1025984251969589 Td
+(• Mentored 3 frontend interns at the same time) Tj
+ET
+BT
+/F9 10 Tf
+11.5 TL
+0 g
+42.5196850393700814 428.2679527559056396 Td
+(• Tech Stack used: Angular, NodeJS, AWS, cognito) Tj
+ET
+BT
+/F10 12 Tf
+13.7999999999999989 TL
+0 g
+28.3464566929133888 395.5907874015749712 Td
+(PROJECTS) Tj
+ET
+1.4173228346456694 w
+28.3464566929133888 392.756141732283595 m
+566.933543307086552 392.756141732283595 l
+S
+BT
+/F10 11 Tf
+12.6499999999999986 TL
+0 g
+28.3464566929133888 378.5829133858269415 Td
+(Campaign Manager | Javascript, React, Solidity, Ethereum) Tj
+ET
+BT
+/F9 10 Tf
+11.5 TL
+0 g
+42.5196850393700814 367.2443307086615505 Td
+(• Developed web3 based campaign SaaS powered by Ethereum ecosystem) Tj
+ET
+BT
+/F9 10 Tf
+11.5 TL
+0 g
+42.5196850393700814 354.4096850393702312 Td
+(• Developed a smart contract using solidity for fund management) Tj
+ET
+BT
+/F10 11 Tf
+12.6499999999999986 TL
+0 g
+28.3464566929133888 335.9057480314962163 Td
+(GameBox | Javascript , Canvas) Tj
+ET
+BT
+/F9 10 Tf
+11.5 TL
+0 g
+42.5196850393700814 324.5671653543308821 Td
+(• A collection of browser based 2D games) Tj
+ET
+BT
+/F9 10 Tf
+11.5 TL
+0 g
+42.5196850393700814 311.7325196850395059 Td
+(• Used vanilla JS and HTML5 canvas only for game logic) Tj
+ET
+BT
+/F10 11 Tf
+12.6499999999999986 TL
+0 g
+28.3464566929133888 293.2285826771656048 Td
+(Akoin | Javascript, NodeJS) Tj
+ET
+BT
+/F9 10 Tf
+11.5 TL
+0 g
+42.5196850393700814 281.8900000000002137 Td
+(• A proof of work system for peer to peer transaction) Tj
+ET
+BT
+/F9 10 Tf
+11.5 TL
+0 g
+42.5196850393700814 269.0553543307088376 Td
+(• Replicates the functionality of miners, nodes & transaction similar to Bitcoin) Tj
+ET
+BT
+/F10 12 Tf
+13.7999999999999989 TL
+0 g
+28.3464566929133888 236.3781889763781692 Td
+(TECHNICAL SKILLS) Tj
+ET
+1.4173228346456694 w
+28.3464566929133888 233.5435433070868498 m
+566.933543307086552 233.5435433070868498 l
+S
+BT
+/F10 10 Tf
+11.5 TL
+0 g
+28.3464566929133888 219.3703149606301395 Td
+(Languages:) Tj
+ET
+BT
+/F9 10 Tf
+11.5 TL
+0 g
+99.2125984251968589 219.3703149606301395 Td
+(Javascript, C/C++,  Typescript, Solidity, Python, HTML/CSS) Tj
+ET
+BT
+/F10 10 Tf
+11.5 TL
+0 g
+28.3464566929133888 203.7010236220475008 Td
+(Frameworks:) Tj
+ET
+BT
+/F9 10 Tf
+11.5 TL
+0 g
+99.2125984251968589 203.7010236220475008 Td
+(React, Node.js, Angular, Ionic, Express, ) Tj
+ET
+BT
+/F10 10 Tf
+11.5 TL
+0 g
+28.3464566929133888 188.0317322834648621 Td
+(Dev Tools:) Tj
+ET
+BT
+/F9 10 Tf
+11.5 TL
+0 g
+99.2125984251968589 188.0317322834648621 Td
+(Git, Docker, AWS, Jenkins, VS Code, Visual Studio, NPM, Yarn, Lerna, Metamask) Tj
+ET
+BT
+/F10 10 Tf
+11.5 TL
+0 g
+28.3464566929133888 172.3624409448822234 Td
+(Libraries:) Tj
+ET
+BT
+/F9 10 Tf
+11.5 TL
+0 g
+99.2125984251968589 172.3624409448822234 Td
+(ExpressJS, ThreeJS, Mongoose,  Amplify, Firebase) Tj
+ET
+endstream
+endobj
+1 0 obj
+<</Type /Pages
+/Kids [3 0 R ]
+/Count 1
+>>
+endobj
+5 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+6 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica-Bold
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+7 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica-Oblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+8 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica-BoldOblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+9 0 obj
+<<
+/Type /Font
+/BaseFont /Courier
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+10 0 obj
+<<
+/Type /Font
+/BaseFont /Courier-Bold
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+11 0 obj
+<<
+/Type /Font
+/BaseFont /Courier-Oblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+12 0 obj
+<<
+/Type /Font
+/BaseFont /Courier-BoldOblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+13 0 obj
+<<
+/Type /Font
+/BaseFont /Times-Roman
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+14 0 obj
+<<
+/Type /Font
+/BaseFont /Times-Bold
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+15 0 obj
+<<
+/Type /Font
+/BaseFont /Times-Italic
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+16 0 obj
+<<
+/Type /Font
+/BaseFont /Times-BoldItalic
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+17 0 obj
+<<
+/Type /Font
+/BaseFont /ZapfDingbats
+/Subtype /Type1
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+18 0 obj
+<<
+/Type /Font
+/BaseFont /Symbol
+/Subtype /Type1
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+2 0 obj
+<<
+/ProcSet [/PDF /Text /ImageB /ImageC /ImageI]
+/Font <<
+/F1 5 0 R
+/F2 6 0 R
+/F3 7 0 R
+/F4 8 0 R
+/F5 9 0 R
+/F6 10 0 R
+/F7 11 0 R
+/F8 12 0 R
+/F9 13 0 R
+/F10 14 0 R
+/F11 15 0 R
+/F12 16 0 R
+/F13 17 0 R
+/F14 18 0 R
+>>
+/XObject <<
+>>
+>>
+endobj
+19 0 obj
+<<
+/Producer (jsPDF 2.5.2)
+/CreationDate (D:20241127214411+05'30')
+>>
+endobj
+20 0 obj
+<<
+/Type /Catalog
+/Pages 1 0 R
+/OpenAction [3 0 R /FitH null]
+/PageLayout /OneColumn
+>>
+endobj
+xref
+0 21
+0000000000 65535 f 
+0000007633 00000 n 
+0000009450 00000 n 
+0000000015 00000 n 
+0000000152 00000 n 
+0000007690 00000 n 
+0000007815 00000 n 
+0000007945 00000 n 
+0000008078 00000 n 
+0000008215 00000 n 
+0000008338 00000 n 
+0000008467 00000 n 
+0000008599 00000 n 
+0000008735 00000 n 
+0000008863 00000 n 
+0000008990 00000 n 
+0000009119 00000 n 
+0000009252 00000 n 
+0000009354 00000 n 
+0000009698 00000 n 
+0000009784 00000 n 
+trailer
+<<
+/Size 21
+/Root 20 0 R
+/Info 19 0 R
+/ID [ <A33280E8CE34AE35E9F94FD8ACC6724F> <A33280E8CE34AE35E9F94FD8ACC6724F> ]
+>>
+startxref
+9888
+%%EOF

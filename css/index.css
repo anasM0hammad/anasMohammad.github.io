@@ -26,6 +26,10 @@ body{
     height: 96vh;
 }
 
+.intro a:hover{
+    color: white;
+}
+
 .line{
     display: inline-block ;
     height: 1px ;
@@ -37,43 +41,53 @@ body{
     margin-bottom: 25px;
 }
 
+.coming-soon{
+    height: 50vh;
+    width: 60vw;
+}
+
 .myImage{
-    height: 250px ;
-    width: 250px ;
+    height: 200px ;
+    width: 200px ;
     border-radius: 50% ;
 }
 
-.resumeLink:hover{
+.company-icon{
+    height: 11vh;
+    width: 11vh;
+    border-radius: 10px;
+}
+
+.company-samsung-icon{
+    height: 8vh;
+    width: 20vh;
+}
+
+.company-is-icon{
+    height: 12vh;
+    width: 20vh;
+}
+
+.job-header{
+    background-color: #4D57DE;
     color: white;
+    padding: 20px;
 }
 
-.projects{
-    /* height: 95vh ; */
+.icon{
+    height: 30px;
+    width: 30px;
+    margin: 2px 7px;
 }
 
-.projects img{
-    height: 100px ;
-    width: 100px ;
-    margin : 0 ;
+.ach-box{
+    border: solid 2px #4D57DE;
 }
+
 
 .projects .card{
     color: #4D57DE ;
     /* font-family: 'Lobster', cursive; */
-}
-
-.projects a{
-    text-decoration: none;
-    color: black;
-}
-
-.plant img{
-    height: 200px;
-    width: 150px;
-}
-
-.work{
-    height: 90vh ;
 }
 
 i{
@@ -97,6 +111,28 @@ i{
 .social{
     display: flex;
     align-items: center;
+}
+
+.social_upper{
+    text-align: center;
+}
+
+.social_upper a{
+    color: #4C4C4C;
+    margin: 0 10px;
+    font-size: 2rem;
+}
+
+.navbar-toggler{
+    padding: 0.1rem 0.35rem;
+    font-size: 1rem;
+}
+
+.list{
+    font-family: 'Courier New', Courier, monospace;
+}
+.list li{
+    margin-bottom: 5px;
 }
 
 .footer i{
